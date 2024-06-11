@@ -1,0 +1,7 @@
+model,context_tokens_pricing,generated_tokens_pricing
+gpt-3.5-turbo-0125,0.0000005,0.0000015
+gpt-4-0125-preview,0.00003,0.00006
+gpt-4-1106-vision-preview,0.00003,0.00006
+gpt-4-turbo-2024-04-09,0.00001,0.00003
+gpt-4o-2024-05-13,0.000005,0.000015
+text-embedding,0.0000001,0
